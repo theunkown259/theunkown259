@@ -1,0 +1,10 @@
+A Mazing 
+
+Controlling the Characters
+To control the Blue Character you will need to use w,a,s,d. To control the Green Character you will need to use your arrow keys.
+
+To complete the level you will need to collect all the golden apples on the screen.
+When you collect all the golden apples you will be transported to the next level.
+There are five levels in total.
+
+Have Fun!
